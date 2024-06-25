@@ -1,1 +1,1 @@
-[![7zip's site](https://cdn.discordapp.com/attachments/1213916295100235816/1254985383809126491/iHQoR4R.png?ex=667b7bb8&is=667a2a38&hm=39d707a2f90f5529363a0f698ee4fd1934317ce629d558a54edba2618c9ced54&)](https://salsacouncil.github.io/page/)
+[7zip's site](https://salsacouncil.github.io/page/)
